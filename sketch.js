@@ -26,7 +26,7 @@ function preload() {
 // ------------------------------------------------------------
 function setup() {
   // createCanvas(width, height) sets the size of your canvas in pixels
-  createCanvas(800, 450);
+  createCanvas(850, 450);
 
   // background() fills the canvas with a colour
   // A single number = greyscale (0 is black, 255 is white)
