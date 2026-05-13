@@ -1,5 +1,5 @@
 // ============================================================
-// Week 1 Amy Liu: Images and Shapes
+// Week 1 Amy Liu: Images and Shapes (Jenga Poster)
 // ============================================================
 
 let img;
