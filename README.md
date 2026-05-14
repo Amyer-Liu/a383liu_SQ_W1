@@ -15,8 +15,8 @@ To play via GitHub Pages, visit the link provided on the submission page.
 
 ## How to interact
 
-- Click anywhere on the screen, but preferably on the Jenga
-- When the Jenga falls, it's the end of the demonstarteion where player will 
+- Click anywhere on the screen, preferably on the Jenga tower.
+- Click anywhere again to restart the game and play another round.
 
 ## Assets
 
